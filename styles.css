@@ -16,6 +16,10 @@ h1, p, ul {
     padding: 0;
 }
 
+h1 {
+    font-weight: 300;
+}
+
 strong,
 .fw-600 {
     font-weight: 600;
